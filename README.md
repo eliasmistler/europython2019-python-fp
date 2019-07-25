@@ -6,6 +6,7 @@ Due to high degrees of interest in functional programming and parallelism, as we
 
 ## Install
 Simply run on Binder:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eliasmistler/europython2019-python-fp/master)
 
 If you prefer to run this on your own machine, create a Python 3 virtualenv, install the requirements and start jupyter:
