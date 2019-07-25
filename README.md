@@ -5,7 +5,10 @@ at the EuroPython 2019 in Basel, using this Jupyter notebook.
 Due to high degrees of interest in functional programming and parallelism, as well as the [coconut](http://coconut-lang.org/) language, I added a lightning talk briefly covering these two topics.
 
 ## Install
-To get up and running, create a Python 3 virtualenv, install the requirements and start jupyter:
+Simply run on Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eliasmistler/europython2019-python-fp/master)
+
+If you prefer to run this on your own machine, create a Python 3 virtualenv, install the requirements and start jupyter:
 
 ```bash
 virtualenv -p python3 .venv
