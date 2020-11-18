@@ -30,7 +30,7 @@ multimethodic==1.0
 nbconvert==5.5.0
 nbformat==4.4.0
 nbresuse==0.3.2
-notebook==5.7.8
+notebook==6.1.5
 numpy==1.16.4
 packaging==19.0
 pandas==0.24.2
